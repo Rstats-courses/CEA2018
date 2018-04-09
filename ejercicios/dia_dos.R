@@ -3,8 +3,8 @@
 #leer datos en R----
 #lee datos de peliculas de James Bond en la carpeta datos con 
   #la función read.table o read.csv
-bond <- read.csv("Rbasics/ejercicios/data/007.csv")
-bond <- read.table("Rbasics/ejercicios/data/007.csv", header = TRUE, sep = ",") #idem
+bond <- read.csv("ejercicios/data/007.csv")
+bond <- read.table("ejercicios/data/007.csv", header = TRUE, sep = ",") #idem
 
 #No explico attach(), por que mejor no lo usamos, ya que presta a errores.
 
