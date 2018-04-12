@@ -1,17 +1,18 @@
 Intro
 ========================================================
 author: I. Bartomeus
-date: February 2016
+date: Abril 2018
 autosize: true
 
-Los siguientes 4 días de vuestra vida
+Los siguientes 5 días de vuestra vida
 =========================================================
 
 * Introducción (yo hablando; 45')
 * Manipulación Básica de datos (vosotros picando código)
 * Lectura, creación y manipulación avanzada de datos (vosotros picando código)
-* Programación básica con R, paquetes externos y modelos lineares (vosotros picando código)
 * Últimos desarrollos para manipular y visualizar datos en R (vosotros picando código)
+* Programación básica con R, paquetes externos y modelos lineares (vosotros picando código)
+* Modelos lineares
 
 Feedback: <a href="nacho.bartomeus@gmail.com">Email: nacho.bartomeus@gmail.com</a>  
 
@@ -41,7 +42,7 @@ Los Básicos
 - R desde Rstudio (download Rstudio)
 - [Material del curso](https://github.com/ibartomeus/LearnR)
 - Carpeta 'ejercicios' y 'guia'
-- Dias 2, 3, y 4 trabajaremos sobre nuestro propio proyecto.
+- Trabajaremos sobre nuestro propio proyecto.
 - Proyecto: Explorar unos datos de pelicula.
 
 Y si no se algo? Uso de Stackoverflow.
